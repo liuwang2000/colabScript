@@ -17,10 +17,7 @@
 - Google Colab 环境
 
 ### 安装步骤
-```bash
-# 克隆仓库
-git clone https://github.com/liuwang2000/colabScript.git
-```
+点击colab直接运行，如果有问题就重启执行
 
 ### 使用指南
 1. 将FASTA文件放入Google Drive
