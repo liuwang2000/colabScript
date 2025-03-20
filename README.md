@@ -20,7 +20,6 @@
 
 =======
 点击[colab](https://colab.research.google.com/github/liuwang2000/colabScript/blob/main/AlphaFold2.ipynb)直接运行，如果有问题就重启执行
->>>>>>> 7204aa607f74962e3912c21bf8888e6e4026bb0d
 
 ### 使用指南
 1. 将FASTA文件放入Google Drive
