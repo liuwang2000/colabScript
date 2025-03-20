@@ -18,7 +18,7 @@
 
 ### 安装步骤
 
-=======
+
 点击[colab](https://colab.research.google.com/github/liuwang2000/colabScript/blob/main/AlphaFold2.ipynb)直接运行，如果有问题就重启执行
 
 ### 使用指南
@@ -44,8 +44,4 @@
 MIT License
 
 ---
-<<<<<<< HEAD
 *温馨提示：建议在Google Colab Pro环境下运行以获得更好性能*
-=======
-*温馨提示：建议在Google Colab Pro环境下运行以获得更好性能*
->>>>>>> 7204aa607f74962e3912c21bf8888e6e4026bb0d
